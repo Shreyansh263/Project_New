@@ -1,0 +1,12 @@
+mat-expansion-panel {
+    margin-top : 1rem;
+}
+.post-image{
+    width : 100%;
+}
+
+.post-image img{
+    border : 5 px solid black;
+    width : 100%;
+    height : 10%;
+}
